@@ -1,9 +1,7 @@
 
 [![Website](https://img.shields.io/website?label=shabnam-k.me&style=for-the-badge&url=https%3A%2F%2Fshabnam-k.me)](https://shabnam-k.me)
-[![Website](https://img.shields.io/badge/SHABNAM--K.ME-up-green?style=flat-square&logo=appveyor)](https://shabnam-k.me)
 
 ### Hey there👋
-## -------------
 - 🚀 I’m currently working on a React project for my portfolio website which has CRUD functionality, fetch API & I'm also using styled component.
 - ​💻​ I usually watch a lot of tutorials
 - 🌱 2021 Goals: Focusing more on JS frameworks like React & Vue
