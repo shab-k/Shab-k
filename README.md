@@ -1,10 +1,7 @@
    ### Hi there👋
-#### 🔴 My website will be up again as soon as I get back my domain(in a few days). Plz read below & take a look at my repos, thanks!
-- Link to some of my projects:
 - 🚀 Latest React project : https://dazzling-thompson-3f6655.netlify.app/
-- https://adoring-northcutt-103687.netlify.app/
-- https://blissful-clarke-d16757.netlify.app/
-
+- My portfolio in Vue.js : https://adoring-northcutt-103687.netlify.app/
+- My portfolio in bootstrap(will be up in a few days) : https://shabnam-k.me
 - 🌱 2021 Goals: Focusing more on JS frameworks like React & Vue
 - 💻 I usually watch a lot of tutorials
 
