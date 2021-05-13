@@ -1,4 +1,5 @@
    ### Hi there👋
+#### 🔴 My website is down at the moment since my domain is expired & I can get it back in a few days. Plz read below and visit later, thanks! 
 - 🚀 I’m currently working on a React project for my portfolio website which has CRUD functionality, fetch API & <br />I'm also using Styled Components💅
 - 🌱 2021 Goals: Focusing more on JS frameworks like React & Vue
 - 💻 I usually watch a lot of tutorials
