@@ -1,6 +1,10 @@
    ### Hi there👋
-#### 🔴 My website is down at the moment since my domain is expired & I can get it back in a few days. Plz read below and visit later, thanks! 
-- 🚀 I’m currently working on a React project for my portfolio website which has CRUD functionality, fetch API & <br />I'm also using Styled Components💅
+#### 🔴 My website will be up again as soon as I get back my domain(in a few days). Plz read below & take a look at my repos, thanks!
+- Link to some of my projects:
+- 🚀 Latest React project : https://dazzling-thompson-3f6655.netlify.app/
+- https://adoring-northcutt-103687.netlify.app/
+- https://blissful-clarke-d16757.netlify.app/
+
 - 🌱 2021 Goals: Focusing more on JS frameworks like React & Vue
 - 💻 I usually watch a lot of tutorials
 
