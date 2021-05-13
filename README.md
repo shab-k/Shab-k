@@ -1,14 +1,15 @@
    ### Hi there👋
 - 🚀 Latest React project : https://dazzling-thompson-3f6655.netlify.app/
 - My portfolio in Vue.js : https://adoring-northcutt-103687.netlify.app/
-- My portfolio in bootstrap(will be up in a few days) : https://shabnam-k.me
+- My portfolio in bootstrap(will be up again in a few days) : https://shabnam-k.me
 - 🌱 2021 Goals: Focusing more on JS frameworks like React & Vue
 - 💻 I usually watch a lot of tutorials
 
 
 ### Portfolio & Contact: 
 
-[![Website](https://img.shields.io/website?label=shabnam-k.me&style=for-the-badge&url=https%3A%2F%2Fshabnam-k.me)](https://shabnam-k.me)
+[![Website-1](https://img.shields.io/website?label=adoring-northcutt-103687.netlify.app&style=for-the-badge&url=https%3A%2F%2Fadoring-northcutt-103687.netlify.app)](https://adoring-northcutt-103687.netlify.app)
+[![Website-2](https://img.shields.io/website?label=shabnam-k.me&style=for-the-badge&url=https%3A%2F%2Fshabnam-k.me)](https://shabnam-k.me)
 
 ### I can work with:
 
@@ -33,4 +34,5 @@
 <br />
 <br />
 
-[website]: https://shabnam-k.me
+[website-1]: https://adoring-northcutt-103687.netlify.app
+[website-2]: https://shabnam-k.me
