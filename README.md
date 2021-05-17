@@ -1,7 +1,7 @@
    ### Hi there👋
    <br />
    
-- 🚀 Latest React project(I'm also adding redux & firebase, full CRUD 😎, stay tuned!) : https://dazzling-thompson-3f6655.netlify.app/
+- 🚀 Latest project: React + Redux + firebase, full CRUD 😎 : https://wexperts-react.web.app/
 - 👉 Portfolio in Vue.js : https://adoring-northcutt-103687.netlify.app/
 - 👉 Portfolio in bootstrap (will be up again in a few days) : https://shabnam-k.me
 - 🌱 2021 Goals: Focusing more on JS frameworks like React & Vue
