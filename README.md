@@ -2,15 +2,13 @@
    <br />
    
 - 🚀 Latest project: React + Redux + firebase, full CRUD 😎 : https://wexperts-react.web.app/
-- 👉 Portfolio in Vue.js : https://adoring-northcutt-103687.netlify.app/
-- 👉 Portfolio in bootstrap (will be up again in a few days) : https://shabnam-k.me
+- 👉 Portfolio: https://shabnam-k.me
 - 🌱 2021 Goals: Focusing more on JS frameworks like React & Vue
 - 💻 I usually watch a lot of tutorials
 
 
 ### Portfolio & Contact: 
 
-[![Website-1](https://img.shields.io/website?label=adoring-northcutt-103687.netlify.app&style=for-the-badge&url=https%3A%2F%2Fadoring-northcutt-103687.netlify.app)](https://adoring-northcutt-103687.netlify.app)
 [![Website-2](https://img.shields.io/website?label=shabnam-k.me&style=for-the-badge&url=https%3A%2F%2Fshabnam-k.me)](https://shabnam-k.me)
 
 
@@ -48,5 +46,4 @@
 <img align="left" alt="Gulp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" />
 
 
-[website-1]: https://adoring-northcutt-103687.netlify.app
 [website-2]: https://shabnam-k.me
