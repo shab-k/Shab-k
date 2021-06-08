@@ -3,7 +3,7 @@
    
 - 🚀 Latest project: React + Redux + firebase, full CRUD 😎 : https://wexperts-react.web.app/
 - 👉 Portfolio: https://shabnam-k.me
-- 🌱 2021 Goals: Focusing more on JS frameworks like React & Vue
+- 🌱 2021 Goals: Focusing more on React with Redux, PHP, Docker and TypeScript
 - 💻 I usually watch a lot of tutorials
 
 
