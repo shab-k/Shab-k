@@ -1,6 +1,7 @@
    ### Hi there👋
    <br />
    
+- 🔴 I'm building a CRUD app with React, TypeScript, Redux toolkit & material UI library for my portfolio
 - 🚀 Latest project: React + Redux + firebase, full CRUD 😎 : https://wexperts-react.web.app/
 - 👉 Portfolio: https://shabnam-k.me
 - 🌱 2021 Goals: Focusing more on React with Redux, PHP, Docker and TypeScript
