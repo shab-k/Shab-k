@@ -1,13 +1,12 @@
    ### Hi there👋
    <br />
    
-- 🔴 I'm building 2 projects for my portfolio:
+- 🔴 I'm running a marathon of job hunting, having interviews, & doing technical exercises + learning new things + I'm building 2 projects for my portfolio:
   -  A CRUD app with React, TypeScript, Redux toolkit & material UI library 
-  -  A Wordpress theme with PHP and Bootstrap 5
-- 🚀 Latest project: React + Redux + firebase, full CRUD 😎 : https://wexperts-react.web.app/
+  -  A Wordpress theme with PHP + Bootstrap 5
+- 🌱 Future Goals: Learning: Redis, Jenkins & Kubernetes + focusing more on React, TypeScript, express, Laravel, & Docker 
+- 🚀 Latest project: React + Redux + firebase, full CRUD: https://wexperts-react.web.app/
 - 👉 Portfolio: https://shabnam-k.me
-- 🌱 2021 Goals: Focusing more on React with Redux, PHP(+Laravel), Docker and TypeScript
-- 💻 I usually watch a lot of tutorials
 
 
 ### Portfolio & Contact: 
