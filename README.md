@@ -1,10 +1,8 @@
    ### Hi there👋
    <br />
    
-- 🔴 I'm 🏃 a marathon of job hunting, having interviews, & doing some technical exercises + learning new things + building 2 projects for my portfolio:
-  -  A CRUD app with React, TypeScript, Redux toolkit & material UI library 
-  -  A Wordpress theme with PHP + Bootstrap 5
-- 🌱 Goals: Learning Redis, Cypress, Jenkins & Kubernetes + focusing more on MERN + TypeScript, Laravel, Docker, & Jest. 
+- 🔴 I'm 🏃 a marathon of job hunting, having interviews, & doing some technical exercises + learning new things + building projects for my portfolio website.
+- 🌱 Goals: Learning new things like Redis, Cypress, Jenkins & Kubernetes + focusing more on MERN + TypeScript, Laravel, Docker, & Jest. 
 - 🚀 Latest project: React + Redux + firebase, full CRUD: https://wexperts-react.web.app/
 - 👉 Portfolio: https://shabnam-k.me
 
