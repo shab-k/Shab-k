@@ -1,7 +1,8 @@
    ### Hi there👋
    <br />
    
-- 🔴 I'm 🏃 a marathon of job hunting, having interviews, & doing some technical exercises + learning new things + building projects for my portfolio website.
+- 🔥 I'm building a full-stack project with Node, React & Socket.io which will be pushed ASAP. 
+- 👉 I'm 🏃 a marathon of job hunting, having interviews, & doing some technical exercises + learning new things + building projects.
 - 🌱 Goals: Learning new things like Redis, Cypress, Jenkins & Kubernetes + focusing more on MERN + TypeScript, Laravel, Docker, & Jest. 
 - 🚀 Latest project: React + Redux + firebase, full CRUD: https://wexperts-react.web.app/
 - 👉 Portfolio: https://shabnam-k.me
